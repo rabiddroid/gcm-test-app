@@ -1,0 +1,5 @@
+.gradle
+.idea
+PnsTestHarness.iml
+build
+local.properties

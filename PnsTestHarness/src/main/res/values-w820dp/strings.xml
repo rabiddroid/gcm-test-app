@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_notifications_list">Received Notifications</string>
+    <string name="show_messages_button_text">Show Messages</string>
+    <string name="clear_messages_button_text">Clear Messages</string>
+    <string name="send_app_token_button_text">Send App Token</string>
+</resources>
