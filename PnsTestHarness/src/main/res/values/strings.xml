@@ -8,5 +8,8 @@
     <string name="show_messages_button_text">Show Messages</string>
     <string name="clear_messages_button_text">Clear Messages</string>
     <string name="send_app_token_button_text">Send App Token</string>
+    <string name="app_version">2.0</string>
+    <string name="recall_app_token_button_text">RECALL APP TOKEN</string>
+    <string name="refresh_app_token_button_text">REFRESH TOKEN</string>
 
 </resources>
